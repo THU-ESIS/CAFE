@@ -2,7 +2,7 @@
 Latest CAFE packages
 ### Welcome to the CAFE wiki!
 This document is written by [Hao Xu](https://www.researchgate.net/profile/Hao_Xu31).      
-The authors of CAFE include [Yuqi Bai](http://yuqibai.net), [Hao Xu](https://www.researchgate.net/profile/Hao_Xu31), Ke Yan, Chang Xiao, Sha Li etc.    
+The authors of CAFE include [Hao Xu](https://www.researchgate.net/profile/Hao_Xu31),Sha Li, Ke Yan, Chang Xiao and [Yuqi Bai](http://yuqibai.net)       
 If you have any questions about CAFE, please send email to us.    
 Email:xuhao13@mails.tsinghua.edu.cn      
 Address:Center for Earth System Science,Tsinghua University,Beijing,China,100084     
